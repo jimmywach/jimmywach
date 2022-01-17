@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jimmywach
-- 👀 I’m interested in Pentesting and Cyber security
+- 👀 I’m interested in Web Development, Penetration testing and Cyber/Information security
 - 🌱 I’m currently learning Linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me wa.me/0795868428 Twitter.com/i_amslimjimmy
